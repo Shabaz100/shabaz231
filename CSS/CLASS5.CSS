@@ -1,0 +1,28 @@
+h1{
+    color: red;
+    background-color: darkgreen;
+    width:100px
+    height: 100px;
+    text-align: center; 
+    
+    
+}
+td{
+    width: 400px; 
+}
+p{
+    font-size: 30px;
+    background-color: darkgreen;
+    color: red;
+    text-align: justify;
+    text-align-last: justify;
+    text-decoration: justify;
+    text-decoration-style: none;
+    text-decoration-color:red;
+    text-transform:capitalize;;
+    line-height: none;
+    word-spacing: none;
+    letter-spacing: none;
+    font-family:'DM Serif Display', serif;
+    font-weight: 20px;
+}
